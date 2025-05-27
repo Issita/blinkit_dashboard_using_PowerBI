@@ -22,3 +22,20 @@ To conduct a comprehensive analysis of Blinkit sales performance, customer satis
 **2.Average Sales:** The average revenue per sale.
 **3.Number of items:** The total count of different items sold.
 **4.Average Rating:** The average customer rating for items sold.
+
+## Chart Requirements
+
+**1.Total Sales By Fat Content:**
+  - **Objective:** Analyze the impact of fat content on total sales.
+  - **Additional KPI Matirix:** Assess how other KPIs (Average Sales, Nuumber of items, average Rating) Vary with fat content.
+  - **Chart Type:** Donut Chart
+
+**2.Total Sales By Item Type:**
+  - **Objective:** Identify the performance of different outlet item types in terms of total sales.
+  - **Additional KPI Matirix:** Assess how other KPIs (Average Sales, Nuumber of items, average Rating) Vary with fat content.
+  - **Chart Type:** Bar Chart
+
+**Fat Content by  Outlet for Total Sales:**
+ - **Objective:** Compare total sales across different outlets segmented by fat content.
+  - **Additional KPI Matirix:** Assess how other KPIs (Average Sales, Nuumber of items, average Rating) Vary with fat content.
+  - **Chart Type:** Stacked Column Chart
