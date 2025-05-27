@@ -49,7 +49,7 @@ To conduct a comprehensive analysis of Blinkit sales performance, customer satis
 
 - **Supermarket Type1 is a strong performer –** Highest volume and value; consider scaling this format.
 
-- **Regular Fat products are preferred –** But Low Fat still holds 35%+ share; both should be optimized.
+- **Regular Fat products are preferred –** But Low Fat still holds 35% both should be optimized.
 
 - **Outlet expansion peak in 2018 –** Investigate the cause of high growth and explore repeating similar strategies.
 
