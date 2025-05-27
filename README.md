@@ -54,3 +54,7 @@ To conduct a comprehensive analysis of Blinkit sales performance, customer satis
 - **Outlet expansion peak in 2018 –** Investigate the cause of high growth and explore repeating similar strategies.
 
 - **High-size outlets are the most profitable –** Could indicate better inventory or customer traffic.
+
+## Screnshorts
+
+Dashboard looks: ![](https://github.com/Issita/blinkit_dashboard_using_PowerBI/blob/main/Blinkit%20Data%20Analysis.png)
