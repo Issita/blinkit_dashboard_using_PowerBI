@@ -43,3 +43,14 @@ To conduct a comprehensive analysis of Blinkit sales performance, customer satis
 **4. Total Sales by Outlet establishment:**
  - **Objective:** Evaluate how the type of outlet establishment influences total sales
   - **Chart Type:** Line Chart
+
+## Actionable Insights
+- **Focus on Tier 3 Locations –** Highest sales contribution (39.3% of total).
+
+- **Supermarket Type1 is a strong performer –** Highest volume and value; consider scaling this format.
+
+- **Regular Fat products are preferred –** But Low Fat still holds 35%+ share; both should be optimized.
+
+- **Outlet expansion peak in 2018 –** Investigate the cause of high growth and explore repeating similar strategies.
+
+- **High-size outlets are the most profitable –** Could indicate better inventory or customer traffic.
