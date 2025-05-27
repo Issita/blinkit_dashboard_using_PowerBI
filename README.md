@@ -35,7 +35,11 @@ To conduct a comprehensive analysis of Blinkit sales performance, customer satis
   - **Additional KPI Matirix:** Assess how other KPIs (Average Sales, Nuumber of items, average Rating) Vary with fat content.
   - **Chart Type:** Bar Chart
 
-**Fat Content by  Outlet for Total Sales:**
+**3.Fat Content by  Outlet for Total Sales:**
  - **Objective:** Compare total sales across different outlets segmented by fat content.
   - **Additional KPI Matirix:** Assess how other KPIs (Average Sales, Nuumber of items, average Rating) Vary with fat content.
   - **Chart Type:** Stacked Column Chart
+
+**4. Total Sales by Outlet establishment:**
+ - **Objective:** Evaluate how the type of outlet establishment influences total sales
+  - **Chart Type:** Line Chart
