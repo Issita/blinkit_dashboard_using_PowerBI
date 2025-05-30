@@ -1,7 +1,6 @@
 # blinkit_dashboard_using_PowerBI
 
 
-
 ## Steps in Project
 
 - Requirement Gathering
